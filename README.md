@@ -15,6 +15,6 @@ University of Michigan (2025) - BS in robotics engineering, minor computer scien
 - [Robot Operating Systems: 3JS animation](./Dance.mp4.pdf)
 - [ROB450 - Capstone: HRI ballbot project](./freecompress-ROB450___final_report.pdf)
 - [ROB 498 - Deep Learning: Dynamic Weather-Aware Lane Detection](./Deep_Rob___final_report.pdf)
-- [ROB 498 - Experimental Unmanned Arile Systems: Final Report](./ROB498_EUAS_Final_Report.pdf)
+- [ROB 498 - Experimental Unmanned Arile Systems: Final Report](./ROB_498_EUAS_Final_Report.pdf)
 - PathFormer: a lane detection model adapted from SegFormer
 - Rubik's Cube PLL detection model (in progress)
