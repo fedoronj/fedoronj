@@ -12,7 +12,7 @@ University of Michigan (2025) - BS in robotics engineering, minor computer scien
 - Deep learning, pytorch, openCV, C++, python, java, javascript, MATLAB, Julia
 
 # Projects
-- Robot Operating Systems:
+- [Robot Operating Systems: 3JS animation](./Dance.mp4.pdf)
 - Capstone (HRI concept project):
 - [ROB 498 - Deep Learning: Dynamic Weather-Aware Lane Detection](./Deep_Rob__final_report.pdf)
 - PathFormer: a lane detection model adapted from SegFormer
