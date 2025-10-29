@@ -1,16 +1,16 @@
-## Hi there 👋
+## Joseph Fedoronko's Portfolio
 
-<!--
-**fedoronj/fedoronj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Education
+University of Michigan (2025) - BS in robotics engineering, minor computer science
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Experience
+
+
+
+# Skills
+- Deep learning, pytorch, openCV, C++, python, java, javascript, MATLAB, Julia
+
+# Projects
+- PathFormer: a lane detection model adapted from SegFormer
+- Rubik's Cube PLL detection model (in progress)
