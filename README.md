@@ -12,5 +12,8 @@ University of Michigan (2025) - BS in robotics engineering, minor computer scien
 - Deep learning, pytorch, openCV, C++, python, java, javascript, MATLAB, Julia
 
 # Projects
+- Robot Operating Systems:
+- Capstone (HRI concept project):
+- Lane Detection Proposal: 
 - PathFormer: a lane detection model adapted from SegFormer
 - Rubik's Cube PLL detection model (in progress)
