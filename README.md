@@ -14,6 +14,6 @@ University of Michigan (2025) - BS in robotics engineering, minor computer scien
 # Projects
 - Robot Operating Systems:
 - Capstone (HRI concept project):
-- Lane Detection Proposal: 
+- ROB 498 - Deep Learning: Dynamic Weather-Aware Lane Detection
 - PathFormer: a lane detection model adapted from SegFormer
 - Rubik's Cube PLL detection model (in progress)
