@@ -17,4 +17,4 @@ University of Michigan (2025) - BS in robotics engineering, minor computer scien
 - [ROB 498 - Deep Learning: Dynamic Weather-Aware Lane Detection](./Deep_Rob___final_report.pdf)
 - [ROB 498 - Experimental Unmanned Aerial Systems: Final Report](./ROB_498_EUAS_Final_Report.pdf)
 - [PathFormer: a deep learning lane detection model adapted from SegFormer](./PathFormer.pdf)
-- Rubik's Cube PLL detection model
+- [Rubik's Cube PLL detection model](./PLL_Trainer.pdf)
